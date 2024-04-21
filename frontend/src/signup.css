@@ -1,0 +1,20 @@
+
+
+.signup-container {
+    background-image: url('./Components/l.jpg'); /* Replace 'path_to_your_image.jpg' with the path to your image */
+    background-size: cover;
+  }
+  .signin-container {
+    background-image: url('./Components/l.jpg'); /* Replace 'path_to_your_image.jpg' with the path to your image */
+    background-size: cover;
+
+  }
+  
+ 
+  .sendmoney {
+    background-image: url('./Components/paytm.jpg'); /* Replace 'path_to_your_image.jpg' with the path to your image */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
